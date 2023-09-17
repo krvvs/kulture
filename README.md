@@ -2,6 +2,7 @@
 > Built with React, fetched data with REST API
 - [Original Repo](https://github.com/wecode-bootcamp-korea/46-2nd-Kulture-frontend)
 - [View Live Version](https://kulture-project.vercel.app/)
+- [Demo Video](https://youtu.be/v78D9IcYdU8)
 
 I served as the **product manager** and **front-end developer** for a project that aimed to create a platform for purchasing events and festival tickets through an auction system. Additionally, 10% of the ticket purchase amount would automatically be donated to support cultural and artistic activities for low-income individuals. Our team consisted of three front-end developers and two back-end developers, and we completed the project in just two weeks. During the planning phase, we drew insights from auction platforms for limited products, NFT market platforms, and ticket sales websites to refine our project's details.
 
