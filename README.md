@@ -1,5 +1,5 @@
 # Events and Festival Ticket Auction Website
-> Built with React, fetched data with REST API
+> Built with `React`, styled with `styled-components`, fetched data with `REST API`
 - [Original Repo](https://github.com/wecode-bootcamp-korea/46-2nd-Kulture-frontend)
 - [View Live Version](https://kulture-project.vercel.app/)
 - [Demo Video](https://youtu.be/v78D9IcYdU8)
