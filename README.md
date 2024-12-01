@@ -1,14 +1,13 @@
 # Events and Festival Ticket Auction Website
 > Built with `React`, styled with `styled-components`, fetched data with `REST API`
 - [Original Repo](https://github.com/wecode-bootcamp-korea/46-2nd-Kulture-frontend)
-- [View Live Version](https://kulture-project.vercel.app/)
 - [Demo Video](https://youtu.be/v78D9IcYdU8)
 
 I served as the **product manager** and **front-end developer** for a project that aimed to create a platform for purchasing events and festival tickets through an auction system. Additionally, 10% of the ticket purchase amount would automatically be donated to support cultural and artistic activities for low-income individuals. Our team consisted of three front-end developers and two back-end developers, and we completed the project in just two weeks. During the planning phase, we drew insights from auction platforms for limited products, NFT market platforms, and ticket sales websites to refine our project's details.
 
 ## Workflow
 
-As the product manager, I wanted to maximize the completeness of our product within a short timeframe of two weeks. To work efficiently, we discussed and shared the envisioned state of our product using [**Figma**](https://www.figma.com/file/gAqeaKZLItF7228PsRHKCj/Kulture-Design?type=design\&node-id=1%3A2\&mode=design\&t=jGN5WL1rQNsDmKHc-1). I also created a **Product Requirements Document (PRD)** to ensure that all team members had a precise understanding of the product's features and specifications. We managed this document collaboratively, with each team member responsible for their respective sections.
+As the product manager, I wanted to maximize the completeness of our product within a short timeframe of two weeks. To work efficiently, we discussed and shared the envisioned state of our product using [**Figma**](https://www.figma.com/design/vocTAwfV7Xf1w9ByUaoFLU/Kulture-Design?m=auto&t=cUY65U21tlddJJtl-6). I also created a **Product Requirements Document (PRD)** to ensure that all team members had a precise understanding of the product's features and specifications. We managed this document collaboratively, with each team member responsible for their respective sections.
 
 ### **User Flow Chart**
 
